@@ -3,39 +3,39 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: Vedkumar Gupta                      # name
+  title: RedHat Specialist and Cloud Architect           # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # file path or link to your avatar
+    path: /assets/images/ved.jpeg # file path or link to your avatar
 
 contact:
-  location: Beijing, China  # location, text or markdown link syntax
-  email: me@example.com     # email address
-  phone: +86-111-2222-3333  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
+  location: Mumbai, India  # location, text or markdown link syntax
+  email: vedkumargupta@gmail.com     # email address
+  phone: +91-8097771415  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  website: www.vedkumargupta.com      # site link without schema, like example.com, will automatically prepend "https://"
 
-  gender:                   # gender or pronoun
-  birthday:                 # birthday
-  nationality:              # nationality
-  visa:                     # passport visa
-  drivinglicense:           # driving licence
+  gender: Male                  # gender or pronoun
+ # birthday:                 # birthday
+  nationality: Indian             # nationality
+ # visa:                     # passport visa
+ # drivinglicense:           # driving licence
 
   # ! Do not paste the link directly.
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                   # https://github.com/<username>
-  gitlab:                   # https://gitlab.com/<username>
-  bitbucket:                # https://bitbucket.com/<username>
-  git:                      # selfhost git site link without schema "https://"
-  leetcode:                 # https://leetcode.com/<username>
-  codeforces:               # https://codeforces.com/profile/<username>
-  codewars:                 # https://www.codewars.com/users/<username>
-  topcoder:                 # https://profiles.topcoder.com/<username>
-  huggingface:              # https://huggingface.co/<username>
-  codepen:                  # https://codepen.io/<username>
-  tryhackme:                # https://tryhackme.com/p/<username>
+  github:                   # https://github.com/vedkumargupta
+  #gitlab:                   # https://gitlab.com/<username>
+  #bitbucket:                # https://bitbucket.com/<username>
+  #git:                      # selfhost git site link without schema "https://"
+  #leetcode:                 # https://leetcode.com/<username>
+  #codeforces:               # https://codeforces.com/profile/<username>
+  #codewars:                 # https://www.codewars.com/users/<username>
+  #topcoder:                 # https://profiles.topcoder.com/<username>
+  #huggingface:              # https://huggingface.co/<username>
+  #codepen:                  # https://codepen.io/<username>
+  #tryhackme:                # https://tryhackme.com/p/<username>
 
   # research
   googlescholar:            # https://scholar.google.com/citations?user=<username>
@@ -368,10 +368,13 @@ language:
     It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
 
   items:
-    - idiom: Chinese
-      level: Native
+   
     - idiom: English
       level: Professional
+    - idiom: Hindi
+      level: Professional
+    - idiom: Marathi
+      level: Intermediate
 
 interest:
   show: true
