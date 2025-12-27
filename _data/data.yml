@@ -207,25 +207,25 @@ skill:
     There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
   items:
-    - name: Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure, IBM cloud
+    - name: Cloud Platforms:- Amazon Web Services (AWS), Microsoft Azure, IBM cloud
       level: 5
-    - name: DevOps Tools: Argo CD, Jenkins, Git, Docker, Ansible, Terraform, Chef, Puppet
+    - name: DevOps Tools:- Argo CD, Jenkins, Git, Docker, Ansible, Terraform, Chef, Puppet
       level: 4
-    - name: Containerization and Orchestration: RedHat OpenShift, Kubernetes and Docker swarm
+    - name: Containerization and Orchestration:- RedHat OpenShift, Kubernetes and Docker swarm
       level: 5
-    - name: Infrastructure as Code: ARM templates, Terraform
+    - name: Infrastructure as Code:- ARM templates, Terraform
       level: 4
-    - name: Virtualization: VMware vSphere, RedHat Virtualization, KVM, Hyper-V
+    - name: Virtualization:- VMware vSphere, RedHat Virtualization, KVM, Hyper-V
       level: 4
-    - name: Networking: TCP/IP, DNS, Load Balancing, VPN
+    - name: Networking:- TCP/IP, DNS, Load Balancing, VPN
       level: 4
-    - name: Scripting and Programming: Bash, PowerShell, YAML
+    - name: Scripting and Programming:- Bash, PowerShell, YAML
       level: 4
-    - name: Monitoring and Logging: ELK Stack, OpenSearch, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor
+    - name: Monitoring and Logging:- ELK Stack, OpenSearch, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor
       level: 4
-    - name: Security: IAM, Security Groups, SSL/TLS, Network Security
+    - name: Security:- IAM, Security Groups, SSL/TLS, Network Security
       level: 4
-    - name: Operating Systems: Linux (Red Hat, CentOS, Ubuntu), Windows Server
+    - name: Operating Systems:- Linux (Red Hat, CentOS, Ubuntu), Windows Server
       level: 4  
 
   groups:
