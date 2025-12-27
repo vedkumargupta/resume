@@ -196,24 +196,26 @@ skill:
     There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
   items:
-    - name: Skill A
+    - name: Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure, IBM cloud
       level: 5
-    - name: Skill B
+    - name: DevOps Tools: Argo CD, Jenkins, Git, Docker, Ansible, Terraform, Chef, Puppet
       level: 4
-    - name: Skill C
-      level: 3
-    - name: Skill D
+    - name: Containerization and Orchestration: RedHat OpenShift, Kubernetes and Docker swarm
+      level: 5
+    - name: Infrastructure as Code: ARM templates, Terraform
       level: 4
-    - name: Skill E
-      level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
+    - name: Virtualization: VMware vSphere, RedHat Virtualization, KVM, Hyper-V
       level: 4
-    - name: Skill H
+    - name: Networking: TCP/IP, DNS, Load Balancing, VPN
       level: 4
-    - name: Skill I
-      level: 3
+    - name: Scripting and Programming: Bash, PowerShell, YAML
+      level: 4
+    - name: Monitoring and Logging: ELK Stack, OpenSearch, Dynatrace, Prometheus, Grafana, CloudWatch, Azure Monitor
+      level: 4
+    - name: Security: IAM, Security Groups, SSL/TLS, Network Security
+      level: 4
+    - name: Operating Systems: Linux (Red Hat, CentOS, Ubuntu), Windows Server
+      level: 4  
 
   groups:
     - name: Group A Skills
