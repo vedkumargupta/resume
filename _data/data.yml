@@ -114,12 +114,23 @@ experience:
   order: 2
   title: Experiences
   description: |
-    **RedHat Architect | IBM INDIA PRIVATE LTD | Mumbai | April 2022 – Present**
-    - Designed and implemented highly available and scalable cloud architectures on AWS and Azure, reducing infrastructure costs by 20% while improving system performance.
-    - Led the migration of legacy on-premises infrastructure to the cloud, resulting in improved agility, scalability, and cost efficiency.
-    - Implemented containerization using Docker and orchestration with RedHat OpenShift and Kubernetes, leading to improved scalability, resource utilization, and application portability.
-    - Implemented infrastructure-as-code practices using tools like Terraform, Ansible, and Chef, reducing deployment time by 30% and ensuring consistency across environments.
+    Highly accomplished Cloud Architect with over 17 years of experience in infrastructure engineering, specializing in scalable cloud design, 
+    DevOps automation, and container orchestration. Currently serving as a RedHat Architect at IBM, Vedkumar has a proven track record
+    of reducing infrastructure costs by 20% and improving time-to-market by 50% through the implementation of advanced CI/CD pipelines and Infrastructure as Code (IaC).
   items:
+    - company: RedHat Architect | IBM INDIA PRIVATE LTD | Mumbai | April 2022 – Present
+      link: '#'
+      tags: Full-time
+      date: 2022.04 - Present
+      role: RedHat Specialist and Cloud Architect
+      location: Mumbai, India
+      description: |
+
+        - Designed and implemented highly available and scalable cloud architectures on AWS and Azure, reducing infrastructure costs by 20% while improving system performance.
+        - Led the migration of legacy on-premises infrastructure to the cloud, resulting in improved agility, scalability, and cost efficiency.
+        - Implemented containerization using Docker and orchestration with RedHat OpenShift and Kubernetes, leading to improved scalability, resource utilization, and application portability.
+        - Implemented infrastructure-as-code practices using tools like Terraform, Ansible, and Chef, reducing deployment time by 30% and ensuring consistency across environments.
+  
     - company: Wipro Ltd | Mumbai | June 2014 - April 2022
       link: '#'
       tags: Full-time
@@ -145,12 +156,12 @@ experience:
       role: Sr. Linux System Administrator
       location: Mumbai, India
       description: |
-        Installed and configured SAS for Payback Loyalty Solutions & Research Pvt Ltd., enabling ICICI Bank to leverage the power of SAS for loyalty programs. I also established 
+        - Installed and configured SAS for Payback Loyalty Solutions & Research Pvt Ltd., enabling ICICI Bank to leverage the power of SAS for loyalty programs. I also established 
         and configured the RHEL infrastructure to ensure seamless operations and optimal performance.
-        + - Led the implementation of VMware vSphere, including the installation of ESXi servers and the consolidation of physical servers to virtual machines using advanced cloning technology. 
+        - Led the implementation of VMware vSphere, including the installation of ESXi servers and the consolidation of physical servers to virtual machines using advanced cloning technology. 
         Additionally, I created and configured clusters, implemented High Availability (HA) and DRS, created templates, performed cloning operations, and established backup policies with
-            appropriate alerts. This initiative improved resource utilization, resilience, and efficient virtual server deployment.
-        + - Implemented the open-source OTRS Ticketing system, enhancing incident handling for the NOC team. This efficient ticketing system streamlined incident management processes, enabling prompt resolutions.
+        appropriate alerts. This initiative improved resource utilization, resilience, and efficient virtual server deployment.
+        - Implemented the open-source OTRS Ticketing system, enhancing incident handling for the NOC team. This efficient ticketing system streamlined incident management processes, enabling prompt resolutions.
 
 project:
   show: true
