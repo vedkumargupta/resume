@@ -120,7 +120,7 @@ experience:
     - Implemented containerization using Docker and orchestration with RedHat OpenShift and Kubernetes, leading to improved scalability, resource utilization, and application portability.
     - Implemented infrastructure-as-code practices using tools like Terraform, Ansible, and Chef, reducing deployment time by 30% and ensuring consistency across environments.
   items:
-    - company: Technical Lead | Wipro Ltd | Mumbai | June 2014 - April 2022
+    - company: Wipro Ltd | Mumbai | June 2014 - April 2022
       link: '#'
       tags: Full-time
       date: 2014.06 - 2022.04
@@ -128,23 +128,29 @@ experience:
       location: Mumbai, India
       description: |
         - Managed a team of 8 to 10 engineers, providing support for customer infrastructure and ensuring seamless operations.
-        - Demonstrated expertise in designing, installing, and configuring a wide range of cloud technologies, including AWS EC2 instances, VPC, Route Tables, Autoscaling Groups, EBS, NAT gateway, CDN, ELB, IAM, S3, Route 53, and CloudWatch. Successfully migrated on-premises applications to the AWS cloud for the National Stock Exchange (NSE).
-        - Implemented RedHat, VMware, Hyper-V and KVM virtualization solutions, including highly available cluster suites, server consolidation, virtual networking, and site recovery. Deployed TKGI clusters (Kubernetes) for the National Stock Exchange (NSE).
-        - Led the deployment and management of DevOps environments using Jenkins, Git, Docker, Chef, and Ansible. Installed and configured Jenkins for automated CI/CD pipelines, managed infrastructure using Chef, executed tasks with Ansible, and provisioned resources using Terraform.
-        Your key responsibilities and achievements in the company.
+        - Demonstrated expertise in designing, installing, and configuring a wide range of cloud technologies, including AWS EC2 instances, VPC, Route Tables, Autoscaling Groups, EBS, NAT gateway, CDN, ELB, IAM, S3, Route 53, and CloudWatch. 
+          Successfully migrated on-premises applications to the AWS cloud for the National Stock Exchange (NSE).
+        - Implemented RedHat, VMware, Hyper-V and KVM virtualization solutions, including highly available cluster suites, server consolidation, virtual networking, and site recovery.
+          Deployed TKGI clusters (Kubernetes) for the National Stock Exchange (NSE).
+        - Led the deployment and management of DevOps environments using Jenkins, Git, Docker, Chef, and Ansible. Installed and configured Jenkins for automated CI/CD pipelines, managed infrastructure using Chef, 
+          executed tasks with Ansible, and provisioned resources using Terraform.
+          Key responsibilities and achievements in the company.
         + Received Performer of the year award 2015 and 2020
         + Received appreciation for implementing RHVE for RBI
 
-    - company: First Company
+    - company: Sr. Linux System Administrator | Blue Star Infotech Ltd | Mumbai | June 2010 - May 2014
       link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+      tags: Full-time
+      date: 2010.06 - 2014.05
+      role: Sr. Linux System Administrator
+      location: Mumbai, India
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        Installed and configured SAS for Payback Loyalty Solutions & Research Pvt Ltd., enabling ICICI Bank to leverage the power of SAS for loyalty programs. I also established 
+        and configured the RHEL infrastructure to ensure seamless operations and optimal performance.
+        + - Led the implementation of VMware vSphere, including the installation of ESXi servers and the consolidation of physical servers to virtual machines using advanced cloning technology. 
+        Additionally, I created and configured clusters, implemented High Availability (HA) and DRS, created templates, performed cloning operations, and established backup policies with
+            appropriate alerts. This initiative improved resource utilization, resilience, and efficient virtual server deployment.
+        + - Implemented the open-source OTRS Ticketing system, enhancing incident handling for the NOC team. This efficient ticketing system streamlined incident management processes, enabling prompt resolutions.
 
 project:
   show: true
