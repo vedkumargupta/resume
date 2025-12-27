@@ -196,10 +196,10 @@ skill:
   order: 4
   title: Skills
   description: |
-    - Hybrid Cloud Orchestration:- Seamlessly managing workloads across AWS and Azure while leveraging VMware and KVM for on-premises virtualization.
-    - GitOps & Automation:- Implementing modern GitOps workflows using Argo CD and automating configuration management with Ansible and Terraform.
-    - Observability:- Building comprehensive monitoring stacks using Prometheus/Grafana and ELK to ensure 99.9% system uptime and proactive issue resolution.
-    - Secure Infrastructure:- Implementing Zero Trust principles through rigorous IAM policies, Network Security Groups, and encrypted communication protocols.
+    - **Hybrid Cloud Orchestration:-** Seamlessly managing workloads across AWS and Azure while leveraging VMware and KVM for on-premises virtualization.
+    - **GitOps & Automation:-** Implementing modern GitOps workflows using Argo CD and automating configuration management with Ansible and Terraform.
+    - **Observability:-** Building comprehensive monitoring stacks using Prometheus/Grafana and ELK to ensure 99.9% system uptime and proactive issue resolution.
+    - **Secure Infrastructure:-** Implementing Zero Trust principles through rigorous IAM policies, Network Security Groups, and encrypted communication protocols.
   items:
     - name: Cloud Platforms:- Amazon Web Services (AWS), Microsoft Azure, IBM cloud
       level: 5
