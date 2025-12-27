@@ -168,12 +168,10 @@ project:
   order: 3
   title: Projects
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
-
+    Engineered and managed enterprise-scale hybrid cloud infrastructures across AWS, Azure, and IBM Cloud, leveraging Terraform and ARM templates to achieve full Infrastructure as Code (IaC) automation.
+    Specialized in modernizing legacy workloads through containerization, architecting robust Kubernetes and OpenShift clusters while implementing GitOps workflows with Argo CD and Jenkins. To ensure system resilience, 
+    I designed centralized observability frameworks using the ELK Stack, Prometheus, and Dynatrace, alongside rigorous security hardening via IAM and network encryption. By automating configuration management with Ansible and Chef.
+    I have consistently reduced deployment cycle times while maintaining high availability across Linux and Windows environments."
   items:
     - name: Personal project
       link: '#'
