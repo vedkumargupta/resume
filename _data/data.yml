@@ -201,9 +201,9 @@ skill:
     - **Observability:-** Building comprehensive monitoring stacks using Prometheus/Grafana and ELK to ensure 99.9% system uptime and proactive issue resolution.
     - **Secure Infrastructure:-** Implementing Zero Trust principles through rigorous IAM policies, Network Security Groups, and encrypted communication protocols.
   items:
-    - name: Cloud Platforms:- Amazon Web Services (AWS), Microsoft Azure, IBM cloud
+    - name: **Cloud Platforms:-** Amazon Web Services (AWS), Microsoft Azure, IBM cloud
       level: 5
-    - name: DevOps Tools:- Argo CD, Jenkins, Git, Docker, Ansible, Terraform, Chef, Puppet
+    - name: **DevOps Tools:-** Argo CD, Jenkins, Git, Docker, Ansible, Terraform, Chef, Puppet
       level: 4
     - name: Containerization and Orchestration:- RedHat OpenShift, Kubernetes and Docker swarm
       level: 5
