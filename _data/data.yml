@@ -173,23 +173,26 @@ project:
     I designed centralized observability frameworks using the ELK Stack, Prometheus, and Dynatrace, alongside rigorous security hardening via IAM and network encryption. By automating configuration management with Ansible and Chef.
     I have consistently reduced deployment cycle times while maintaining high availability across Linux and Windows environments."
   items:
-    - name: Personal project
+    - name: Implementation of RedHat virtualization and migration of all physical vm to Virtualized
+            environmnt.
       link: '#'
       tags:
-      date: 2015 - 2017
+      date: 2019 - 2020
       description: |
-        Personal project description...
-        + First
-        + Second
+        Implemented RedHat virtualization for RBI. Migration all infrastructure vms ie DNS, AD , DHCP,etc 
+        to virtualized environment saving lots of cost.
+        Worked on managing all the Redhat and Windows workload along with Redhat virtualization environment.
+        
 
-    - name: OSS project
+    - name: Implementation of Vmware infrastructure for NSC.
       link:
-      tags: committer
+      tags: 
       date:
       description: |
-        OSS project description...
-        + First
-        + Second
+        Implemented end to Vmware infrastructure by installing and configuration of ESXi hosts and Vcenter servers.
+        Created multiple Vcenter server for various locations and integrated them with vmware Linked mode.
+        Created over 500+ vms including Redhat enterprise Linux and window servers.
+        
 
 skill:
   show: true
