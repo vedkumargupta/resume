@@ -120,7 +120,7 @@ experience:
     - Implemented containerization using Docker and orchestration with RedHat OpenShift and Kubernetes, leading to improved scalability, resource utilization, and application portability.
     - Implemented infrastructure-as-code practices using tools like Terraform, Ansible, and Chef, reducing deployment time by 30% and ensuring consistency across environments.
   items:
-    - company: Wipro Ltd
+    - company: Technical Lead | Wipro Ltd | Mumbai | June 2014 - April 2022
       link: '#'
       tags: Full-time
       date: 2014.06 - 2022.04
